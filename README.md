@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+Folks;I'm+Priya+Gupta)](https://git.io/typing-svg)
-<h1 align="center">Hi 👋, I'm Priya Amardeep Singh</h1>
+<h1 align="center">Hi 👋, I'm Amardeep Singh</h1>
 <h3 align="center">A Passionate Data Analyst|Powerbi developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adsamardeep&label=Profile%20views&color=0e75b6&style=flat" alt="adsamardeep" /> </p>
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Data Analysis**
 
-- 📫 How to reach me **priyagupta0539@gmail.com**
+- 📫 How to reach me **ads.amar.deep@gmail.com**
 
 - ⚡ Fun fact **👀 I love SQL, PowerBI and telling stories and making predictions with data.**
 
@@ -33,6 +33,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyagupta52&show_icons=true&locale=en&layout=compact" alt="priyagupta52" /></p>

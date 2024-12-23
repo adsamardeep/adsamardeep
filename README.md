@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+Folks;I'm+Priya+Gupta)](https://git.io/typing-svg)
-<h1 align="center">Hi 👋, I'm Priya Gupta</h1>
+<h1 align="center">Hi 👋, I'm Priya Amardeep Singh</h1>
 <h3 align="center">A Passionate Data Analyst|Powerbi developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyagupta52&label=Profile%20views&color=0e75b6&style=flat" alt="priyagupta52" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adsamardeep&label=Profile%20views&color=0e75b6&style=flat" alt="adsamardeep" /> </p>
 
 <p align="left"> <a href="https://twitter.com/priya_gupta99" target="blank"><img src="https://img.shields.io/twitter/follow/priya_gupta99?logo=twitter&style=for-the-badge" alt="priya_gupta99" /></a> </p>
 

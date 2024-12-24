@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adsamardeep&label=Profile%20views&color=0e75b6&style=flat" alt="adsamardeep" /> </p>
 
-<p align="left"> <a href="https://x.com/veerspends" target="blank"><img src="https://img.shields.io/twitter/follow/veerspends?logo=twitter&style=for-the-badge" alt="veerspends" /></a> </p>
+<p align="left"> <a href="https://x.com/adsamardeep" target="blank"><img src="https://img.shields.io/twitter/follow/adsamardeep?logo=twitter&style=for-the-badge" alt="adsamardeep" /></a> </p>
 
 - 🌱 I’m currently learning **EXCEL , SQL, POWERBI**
 
@@ -27,9 +27,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/veerspends" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priya_gupta99" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ads-amardeep-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="contactpriyagupta" height="30" width="40" /></a>
-<a href="https://medium.com/@ads.amar.deep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@itspriyasometimes" height="30" width="40" /></a>
+<a href="https://x.com/adsamardeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adsamardeep" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ads-amardeep-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ads-amardeep-singh" height="30" width="40" /></a>
+<a href="https://medium.com/@ads.amar.deep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ads.amar.deep" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

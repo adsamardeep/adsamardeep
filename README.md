@@ -22,7 +22,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adsamardeep&theme=ads-juicy-fresh&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=adsamardeep&theme=neon-dark)](https://git.io/streak-stats)
 
 
 <h3 align="left">Connect with me:</h3>
